@@ -1,5 +1,5 @@
 # Sakura_WiFi
-WiFi library for "Sakura" boards (EducationRobots.RU) or other Arduino clones with ESP266 WiFi.
+WiFi library for "Sakura" boards ((http://EducationRobots.RU "EducationRobots.RU")) or other Arduino clones with ESP266 WiFi.
 
 # Basic functions:
  - setting up the ESP8266;
